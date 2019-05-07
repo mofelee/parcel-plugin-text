@@ -26,10 +26,6 @@
       "node": true
     }
   },
-  "engines": {
-    "node": "^9.5.0",
-    "npm": "^5.8.0"
-  },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
     "eslint": "^4.19.1",
